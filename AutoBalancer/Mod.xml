@@ -7,12 +7,12 @@
 
 	<!-- General information about the mod. -->
 	<Name>AutoBalancer</Name>
-	<Author>Mod Author</Author> <!-- FIX: Insert your name here. -->
+	<Author>Yamabach</Author> <!-- FIX: Insert your name here. -->
 	<!-- Major.Minor.Build -->
 	<Version>0.0.1</Version>
 	
 	<Description>
-A newly created mod. <!-- FIX: Insert a short description here. -->
+Auto Balancing Blocks
 	</Description>
 	
 	<!-- Square icon of the mod. Texture defined in the Resources section.
