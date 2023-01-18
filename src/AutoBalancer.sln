@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2851d2fd-915b-46ca-98b5-7c61450bcba5}") = "AutoBalancer", "AutoBalancer\AutoBalancer.csproj", "{b7f40bf5-b8f3-406d-8fc6-2848eb0e2b1a}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{b7f40bf5-b8f3-406d-8fc6-2848eb0e2b1a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b7f40bf5-b8f3-406d-8fc6-2848eb0e2b1a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b7f40bf5-b8f3-406d-8fc6-2848eb0e2b1a}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{b7f40bf5-b8f3-406d-8fc6-2848eb0e2b1a}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5e53d4d8-eae1-4f7b-af1a-5781834d5d99}
+	EndGlobalSection
+EndGlobal
